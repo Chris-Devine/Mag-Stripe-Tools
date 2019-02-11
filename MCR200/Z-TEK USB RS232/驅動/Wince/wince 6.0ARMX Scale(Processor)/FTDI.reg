@@ -1,0 +1,25 @@
+[HKEY_LOCAL_MACHINE\Drivers\USB\ClientDrivers\FTDI_DEVICE]
+"Version"="1.1.0.20"
+"Prefix"="COM"
+"Dll"="ftdi_ser.dll"
+"ConfigData"=hex:\
+      01,00,3f,3f,10,27,88,13,c4,09,e2,04,71,02,38,41,9c,80,4e,c0,34,00,1a,00,0d,\
+      00,06,40,03,80,00,00,d0,80
+"InitialIndex"=dword:00000006
+"DeviceArrayIndex"=dword:00000004
+"LatencyTimer"=dword:00000010
+
+[HKEY_LOCAL_MACHINE\Drivers\USB\LoadClients\1027_24577\Default\255\FTDI_DEVICE]
+"DLL"="ftdi_ser.dll"
+
+[HKEY_LOCAL_MACHINE\Drivers\USB\LoadClients\1027_24592\Default\255\FTDI_DEVICE]
+"DLL"="ftdi_ser.dll"
+
+[HKEY_LOCAL_MACHINE\Drivers\USB\LoadClients\1027_24593\Default\255\FTDI_DEVICE]
+"DLL"="ftdi_ser.dll"
+
+[HKEY_LOCAL_MACHINE\Drivers\USB\LoadClients\1027_24596\Default\255\FTDI_DEVICE]
+"DLL"="ftdi_ser.dll"
+
+[HKEY_LOCAL_MACHINE\Drivers\USB\LoadClients\1027_24597\Default\255\FTDI_DEVICE]
+"DLL"="ftdi_ser.dll"

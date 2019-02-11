@@ -1,0 +1,20 @@
+=========================================
+
+System Requirement:
+  . Supports the following Windows OSes:
+	- Windows 98SE
+	- Windows ME
+	- Windows 2000 SP4
+	- Windows XP SP2 and above (32-bit)
+	- Windows Server 2003 (32-bit)
+	- Windows Server 2008 (32/64 bit versions)
+	- Windows Vista (32/64 bit versions)
+ 
+Language Support: 
+	- English (default)
+	- Chinese (Traditional) 
+	- Chinese (Simplified)
+	- Japanese
+
+
+========================================
